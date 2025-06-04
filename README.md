@@ -18,7 +18,7 @@ It focuses on classifying breast cancer cases as **malignant** or **benign** usi
 
 - Logistic Regression  
 - Random Forest  
-- Support Vector Machine (SVM)
+- Support Vector Classifier (SVC)
 
 ## 🧪 Results
 

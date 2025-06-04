@@ -14,7 +14,7 @@ It focuses on classifying breast cancer cases as **malignant** or **benign** usi
   - Grid Search with **5-fold Cross-Validation**
   - Performance evaluation (accuracy, F1 score, confusion matrix)
 
-  ## 📊 Models Used
+## 📊 Models Used
 
 - Logistic Regression  
 - Random Forest  
@@ -36,6 +36,6 @@ It focuses on classifying breast cancer cases as **malignant** or **benign** usi
 
 ```bash
 git clone https://github.com/tomerbitonn/Machine-Learning-Project2.git
-cd breast-cancer-ml
+cd Machine-Learning-Project2
 jupyter notebook
 ```
